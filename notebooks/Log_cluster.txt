@@ -1,0 +1,96 @@
+cluster number: 3068
+total number : 125
+total number : 125
+
+WT
+total number WT : 69
+hit_group
+NSN        24
+S/WS/WN    18
+WSN        13
+NWN         5
+WWN         4
+WNN         2
+WNW         1
+SNS         1
+SSN         1
+Name: count, dtype: int64
+
+I65T
+total number I65T : 56
+hit_group
+S/WS/WN    17
+NSN        15
+WSN        11
+WWN         5
+NWN         4
+SNN         2
+SSN         1
+WNN         1
+Name: count, dtype: int64
+----------
+cluster number: 3837
+total number : 121
+total number : 121
+
+WT
+total number WT : 65
+hit_group
+NSN        24
+S/WS/WN    17
+WSN        15
+NWN         4
+NNW         2
+WWN         1
+WNN         1
+SSN         1
+Name: count, dtype: int64
+
+I65T
+total number I65T : 56
+hit_group
+NSN        18
+S/WS/WN    17
+WSN        14
+SSN         2
+NWN         2
+WNW         1
+WNN         1
+WWN         1
+Name: count, dtype: int64
+----------
+cluster number: 3534
+total number : 111
+total number : 111
+
+WT
+total number WT : 61
+hit_group
+NNW        21
+WNW        11
+WNN         7
+S/WS/WN     5
+NNS         3
+NSN         3
+SSN         3
+NWN         3
+SNS         2
+WWN         1
+WSN         1
+SNN         1
+Name: count, dtype: int64
+
+I65T
+total number I65T : 50
+hit_group
+NNW        19
+WNW         6
+S/WS/WN     6
+SNN         5
+WNN         4
+NSN         4
+WWN         3
+SSN         2
+WSN         1
+Name: count, dtype: int64
+----------
